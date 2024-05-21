@@ -3,7 +3,7 @@ import ErrorPage from "./pages/ErrorPage";
 import LandingPage from "./pages/LandingPage";
 import Navbar from "./modules/Navbar";
 
-export default function Server() {
+export default function Routing() {
 
     return (
     <div>

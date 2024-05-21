@@ -1,11 +1,11 @@
-import Server from "./Routing";
+import Routing from "./Routing";
 import Background from "./modules/Background";
 
 export default function App() {
   return(
     <div className="wholePage" id="section0">
       <Background />
-      <Server />
+      <Routing />
     </div>
   )
 }
